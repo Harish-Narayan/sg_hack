@@ -115,4 +115,3 @@ Enforces permissions via blockchain for transparency and security.
 - Multi-factor authentication for Admins.
 - Scalable microservices architecture with Kubernetes.
 
-For detailed setup and usage, refer to the full documentation.
